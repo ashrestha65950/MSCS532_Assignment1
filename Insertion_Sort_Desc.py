@@ -1,3 +1,5 @@
+# This function sorts an array in descending order using insertion sort
+
 def insertion_sort_desc(arr):
     n = len(arr)
     for i in range(1, n):
